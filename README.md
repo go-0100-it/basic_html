@@ -11,7 +11,7 @@
 >Future stages (Stage 1 - Stage 5) should try to be completed on time.
 >This is a formative checkpoint designed to give you immediate feedback and ensure you have the confidence and the support you need to >keep moving forward.
 >#Stage 0 Project:
->Write your notes in an html file using the tags learned in this Stage such as <p>,<div>, <h1>, <b>, <em>, <span>
+>Write your notes in an html file using the tags learned in this Stage such as ~~~~ <p>,<div>, <h1>, <b>, <em>, <span> ~~~~ 
 >Keep it simple. CSS for styling is not necessary for the Project.
 >Make sure you use proper HTML Document structure for your code. Refer to this lesson if you need help with this structure.
 >Once you are ready with your html file, use the Submit Project button to upload your project for review!
