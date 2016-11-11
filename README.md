@@ -2,6 +2,8 @@
 
 >Project Submission
 
+This was my first project submission for the Udacity Intro to programming Nanodegree.  The project out-line was:
+
 >#Getting Feedback
 >Throughout your Nanodegree program, you will submit your work for review. When you submit a project, you will receive a grade that >indicates either that you've passed that stage or that you need to work on your project and submit again.
 
